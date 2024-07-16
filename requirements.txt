@@ -1,3 +1,5 @@
 fastapi
 langchain
 langchain-community
+python-decouple
+Pillow
